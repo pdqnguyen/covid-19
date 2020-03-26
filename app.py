@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import plotly.express as px
 import plotly.graph_objects as go
 import dash
 import dash_core_components as dcc
@@ -138,14 +137,13 @@ fig.update_layout(
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+server = app.server
 markdown_text = '''
 ### COVID-19 Growth Curves
 
 Data drawn from [https://github.com/datasets/covid-19]
 (https://github.com/datasets/covid-19). These growth curves are lined up by date of first death (or 2020-01-22 if deaths began before then) for a better comparison between countries.
 '''
-
 app.layout = html.Div([
     dcc.Markdown(children=markdown_text),
     dcc.Graph(figure=fig)

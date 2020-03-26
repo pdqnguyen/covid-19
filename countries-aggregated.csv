@@ -150,7 +150,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-22,Sweden,0,0,0
 2020-01-22,Switzerland,0,0,0
 2020-01-22,Syria,0,0,0
-2020-01-22,Taiwan*,1,0,0
+2020-01-22,Taiwan,1,0,0
 2020-01-22,Tanzania,0,0,0
 2020-01-22,Thailand,2,0,0
 2020-01-22,Timor-Leste,0,0,0
@@ -158,7 +158,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-22,Trinidad and Tobago,0,0,0
 2020-01-22,Tunisia,0,0,0
 2020-01-22,Turkey,0,0,0
-2020-01-22,US,1,,0
+2020-01-22,United States,1,,0
 2020-01-22,Uganda,0,0,0
 2020-01-22,Ukraine,0,0,0
 2020-01-22,United Arab Emirates,0,0,0
@@ -320,7 +320,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-23,Sweden,0,0,0
 2020-01-23,Switzerland,0,0,0
 2020-01-23,Syria,0,0,0
-2020-01-23,Taiwan*,1,0,0
+2020-01-23,Taiwan,1,0,0
 2020-01-23,Tanzania,0,0,0
 2020-01-23,Thailand,3,0,0
 2020-01-23,Timor-Leste,0,0,0
@@ -328,7 +328,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-23,Trinidad and Tobago,0,0,0
 2020-01-23,Tunisia,0,0,0
 2020-01-23,Turkey,0,0,0
-2020-01-23,US,1,,0
+2020-01-23,United States,1,,0
 2020-01-23,Uganda,0,0,0
 2020-01-23,Ukraine,0,0,0
 2020-01-23,United Arab Emirates,0,0,0
@@ -490,7 +490,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-24,Sweden,0,0,0
 2020-01-24,Switzerland,0,0,0
 2020-01-24,Syria,0,0,0
-2020-01-24,Taiwan*,3,0,0
+2020-01-24,Taiwan,3,0,0
 2020-01-24,Tanzania,0,0,0
 2020-01-24,Thailand,5,0,0
 2020-01-24,Timor-Leste,0,0,0
@@ -498,7 +498,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-24,Trinidad and Tobago,0,0,0
 2020-01-24,Tunisia,0,0,0
 2020-01-24,Turkey,0,0,0
-2020-01-24,US,2,,0
+2020-01-24,United States,2,,0
 2020-01-24,Uganda,0,0,0
 2020-01-24,Ukraine,0,0,0
 2020-01-24,United Arab Emirates,0,0,0
@@ -660,7 +660,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-25,Sweden,0,0,0
 2020-01-25,Switzerland,0,0,0
 2020-01-25,Syria,0,0,0
-2020-01-25,Taiwan*,3,0,0
+2020-01-25,Taiwan,3,0,0
 2020-01-25,Tanzania,0,0,0
 2020-01-25,Thailand,7,0,0
 2020-01-25,Timor-Leste,0,0,0
@@ -668,7 +668,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-25,Trinidad and Tobago,0,0,0
 2020-01-25,Tunisia,0,0,0
 2020-01-25,Turkey,0,0,0
-2020-01-25,US,2,,0
+2020-01-25,United States,2,,0
 2020-01-25,Uganda,0,0,0
 2020-01-25,Ukraine,0,0,0
 2020-01-25,United Arab Emirates,0,0,0
@@ -830,7 +830,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-26,Sweden,0,0,0
 2020-01-26,Switzerland,0,0,0
 2020-01-26,Syria,0,0,0
-2020-01-26,Taiwan*,4,0,0
+2020-01-26,Taiwan,4,0,0
 2020-01-26,Tanzania,0,0,0
 2020-01-26,Thailand,8,2,0
 2020-01-26,Timor-Leste,0,0,0
@@ -838,7 +838,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-26,Trinidad and Tobago,0,0,0
 2020-01-26,Tunisia,0,0,0
 2020-01-26,Turkey,0,0,0
-2020-01-26,US,5,,0
+2020-01-26,United States,5,,0
 2020-01-26,Uganda,0,0,0
 2020-01-26,Ukraine,0,0,0
 2020-01-26,United Arab Emirates,0,0,0
@@ -1000,7 +1000,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-27,Sweden,0,0,0
 2020-01-27,Switzerland,0,0,0
 2020-01-27,Syria,0,0,0
-2020-01-27,Taiwan*,5,0,0
+2020-01-27,Taiwan,5,0,0
 2020-01-27,Tanzania,0,0,0
 2020-01-27,Thailand,8,2,0
 2020-01-27,Timor-Leste,0,0,0
@@ -1008,7 +1008,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-27,Trinidad and Tobago,0,0,0
 2020-01-27,Tunisia,0,0,0
 2020-01-27,Turkey,0,0,0
-2020-01-27,US,5,,0
+2020-01-27,United States,5,,0
 2020-01-27,Uganda,0,0,0
 2020-01-27,Ukraine,0,0,0
 2020-01-27,United Arab Emirates,0,0,0
@@ -1170,7 +1170,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-28,Sweden,0,0,0
 2020-01-28,Switzerland,0,0,0
 2020-01-28,Syria,0,0,0
-2020-01-28,Taiwan*,8,0,0
+2020-01-28,Taiwan,8,0,0
 2020-01-28,Tanzania,0,0,0
 2020-01-28,Thailand,14,5,0
 2020-01-28,Timor-Leste,0,0,0
@@ -1178,7 +1178,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-28,Trinidad and Tobago,0,0,0
 2020-01-28,Tunisia,0,0,0
 2020-01-28,Turkey,0,0,0
-2020-01-28,US,5,,0
+2020-01-28,United States,5,,0
 2020-01-28,Uganda,0,0,0
 2020-01-28,Ukraine,0,0,0
 2020-01-28,United Arab Emirates,0,0,0
@@ -1340,7 +1340,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-29,Sweden,0,0,0
 2020-01-29,Switzerland,0,0,0
 2020-01-29,Syria,0,0,0
-2020-01-29,Taiwan*,8,0,0
+2020-01-29,Taiwan,8,0,0
 2020-01-29,Tanzania,0,0,0
 2020-01-29,Thailand,14,5,0
 2020-01-29,Timor-Leste,0,0,0
@@ -1348,7 +1348,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-29,Trinidad and Tobago,0,0,0
 2020-01-29,Tunisia,0,0,0
 2020-01-29,Turkey,0,0,0
-2020-01-29,US,5,,0
+2020-01-29,United States,5,,0
 2020-01-29,Uganda,0,0,0
 2020-01-29,Ukraine,0,0,0
 2020-01-29,United Arab Emirates,4,0,0
@@ -1510,7 +1510,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-30,Sweden,0,0,0
 2020-01-30,Switzerland,0,0,0
 2020-01-30,Syria,0,0,0
-2020-01-30,Taiwan*,9,0,0
+2020-01-30,Taiwan,9,0,0
 2020-01-30,Tanzania,0,0,0
 2020-01-30,Thailand,14,5,0
 2020-01-30,Timor-Leste,0,0,0
@@ -1518,7 +1518,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-30,Trinidad and Tobago,0,0,0
 2020-01-30,Tunisia,0,0,0
 2020-01-30,Turkey,0,0,0
-2020-01-30,US,5,,0
+2020-01-30,United States,5,,0
 2020-01-30,Uganda,0,0,0
 2020-01-30,Ukraine,0,0,0
 2020-01-30,United Arab Emirates,4,0,0
@@ -1680,7 +1680,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-31,Sweden,1,0,0
 2020-01-31,Switzerland,0,0,0
 2020-01-31,Syria,0,0,0
-2020-01-31,Taiwan*,10,0,0
+2020-01-31,Taiwan,10,0,0
 2020-01-31,Tanzania,0,0,0
 2020-01-31,Thailand,19,5,0
 2020-01-31,Timor-Leste,0,0,0
@@ -1688,7 +1688,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-31,Trinidad and Tobago,0,0,0
 2020-01-31,Tunisia,0,0,0
 2020-01-31,Turkey,0,0,0
-2020-01-31,US,7,,0
+2020-01-31,United States,7,,0
 2020-01-31,Uganda,0,0,0
 2020-01-31,Ukraine,0,0,0
 2020-01-31,United Arab Emirates,4,0,0
@@ -1850,7 +1850,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-01,Sweden,1,0,0
 2020-02-01,Switzerland,0,0,0
 2020-02-01,Syria,0,0,0
-2020-02-01,Taiwan*,10,0,0
+2020-02-01,Taiwan,10,0,0
 2020-02-01,Tanzania,0,0,0
 2020-02-01,Thailand,19,5,0
 2020-02-01,Timor-Leste,0,0,0
@@ -1858,7 +1858,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-01,Trinidad and Tobago,0,0,0
 2020-02-01,Tunisia,0,0,0
 2020-02-01,Turkey,0,0,0
-2020-02-01,US,8,,0
+2020-02-01,United States,8,,0
 2020-02-01,Uganda,0,0,0
 2020-02-01,Ukraine,0,0,0
 2020-02-01,United Arab Emirates,4,0,0
@@ -2020,7 +2020,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-02,Sweden,1,0,0
 2020-02-02,Switzerland,0,0,0
 2020-02-02,Syria,0,0,0
-2020-02-02,Taiwan*,10,0,0
+2020-02-02,Taiwan,10,0,0
 2020-02-02,Tanzania,0,0,0
 2020-02-02,Thailand,19,5,0
 2020-02-02,Timor-Leste,0,0,0
@@ -2028,7 +2028,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-02,Trinidad and Tobago,0,0,0
 2020-02-02,Tunisia,0,0,0
 2020-02-02,Turkey,0,0,0
-2020-02-02,US,8,,0
+2020-02-02,United States,8,,0
 2020-02-02,Uganda,0,0,0
 2020-02-02,Ukraine,0,0,0
 2020-02-02,United Arab Emirates,5,0,0
@@ -2190,7 +2190,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-03,Sweden,1,0,0
 2020-02-03,Switzerland,0,0,0
 2020-02-03,Syria,0,0,0
-2020-02-03,Taiwan*,10,0,0
+2020-02-03,Taiwan,10,0,0
 2020-02-03,Tanzania,0,0,0
 2020-02-03,Thailand,19,5,0
 2020-02-03,Timor-Leste,0,0,0
@@ -2198,7 +2198,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-03,Trinidad and Tobago,0,0,0
 2020-02-03,Tunisia,0,0,0
 2020-02-03,Turkey,0,0,0
-2020-02-03,US,11,,0
+2020-02-03,United States,11,,0
 2020-02-03,Uganda,0,0,0
 2020-02-03,Ukraine,0,0,0
 2020-02-03,United Arab Emirates,5,0,0
@@ -2360,7 +2360,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-04,Sweden,1,0,0
 2020-02-04,Switzerland,0,0,0
 2020-02-04,Syria,0,0,0
-2020-02-04,Taiwan*,11,0,0
+2020-02-04,Taiwan,11,0,0
 2020-02-04,Tanzania,0,0,0
 2020-02-04,Thailand,25,5,0
 2020-02-04,Timor-Leste,0,0,0
@@ -2368,7 +2368,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-04,Trinidad and Tobago,0,0,0
 2020-02-04,Tunisia,0,0,0
 2020-02-04,Turkey,0,0,0
-2020-02-04,US,11,,0
+2020-02-04,United States,11,,0
 2020-02-04,Uganda,0,0,0
 2020-02-04,Ukraine,0,0,0
 2020-02-04,United Arab Emirates,5,0,0
@@ -2530,7 +2530,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-05,Sweden,1,0,0
 2020-02-05,Switzerland,0,0,0
 2020-02-05,Syria,0,0,0
-2020-02-05,Taiwan*,11,0,0
+2020-02-05,Taiwan,11,0,0
 2020-02-05,Tanzania,0,0,0
 2020-02-05,Thailand,25,5,0
 2020-02-05,Timor-Leste,0,0,0
@@ -2538,7 +2538,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-05,Trinidad and Tobago,0,0,0
 2020-02-05,Tunisia,0,0,0
 2020-02-05,Turkey,0,0,0
-2020-02-05,US,11,,0
+2020-02-05,United States,11,,0
 2020-02-05,Uganda,0,0,0
 2020-02-05,Ukraine,0,0,0
 2020-02-05,United Arab Emirates,5,0,0
@@ -2700,7 +2700,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-06,Sweden,1,0,0
 2020-02-06,Switzerland,0,0,0
 2020-02-06,Syria,0,0,0
-2020-02-06,Taiwan*,16,1,0
+2020-02-06,Taiwan,16,1,0
 2020-02-06,Tanzania,0,0,0
 2020-02-06,Thailand,25,5,0
 2020-02-06,Timor-Leste,0,0,0
@@ -2708,7 +2708,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-06,Trinidad and Tobago,0,0,0
 2020-02-06,Tunisia,0,0,0
 2020-02-06,Turkey,0,0,0
-2020-02-06,US,11,,0
+2020-02-06,United States,11,,0
 2020-02-06,Uganda,0,0,0
 2020-02-06,Ukraine,0,0,0
 2020-02-06,United Arab Emirates,5,0,0
@@ -2870,7 +2870,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-07,Sweden,1,0,0
 2020-02-07,Switzerland,0,0,0
 2020-02-07,Syria,0,0,0
-2020-02-07,Taiwan*,16,1,0
+2020-02-07,Taiwan,16,1,0
 2020-02-07,Tanzania,0,0,0
 2020-02-07,Thailand,25,5,0
 2020-02-07,Timor-Leste,0,0,0
@@ -2878,7 +2878,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-07,Trinidad and Tobago,0,0,0
 2020-02-07,Tunisia,0,0,0
 2020-02-07,Turkey,0,0,0
-2020-02-07,US,11,,0
+2020-02-07,United States,11,,0
 2020-02-07,Uganda,0,0,0
 2020-02-07,Ukraine,0,0,0
 2020-02-07,United Arab Emirates,5,0,0
@@ -3040,7 +3040,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-08,Sweden,1,0,0
 2020-02-08,Switzerland,0,0,0
 2020-02-08,Syria,0,0,0
-2020-02-08,Taiwan*,17,1,0
+2020-02-08,Taiwan,17,1,0
 2020-02-08,Tanzania,0,0,0
 2020-02-08,Thailand,32,10,0
 2020-02-08,Timor-Leste,0,0,0
@@ -3048,7 +3048,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-08,Trinidad and Tobago,0,0,0
 2020-02-08,Tunisia,0,0,0
 2020-02-08,Turkey,0,0,0
-2020-02-08,US,11,,0
+2020-02-08,United States,11,,0
 2020-02-08,Uganda,0,0,0
 2020-02-08,Ukraine,0,0,0
 2020-02-08,United Arab Emirates,7,0,0
@@ -3210,7 +3210,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-09,Sweden,1,0,0
 2020-02-09,Switzerland,0,0,0
 2020-02-09,Syria,0,0,0
-2020-02-09,Taiwan*,18,1,0
+2020-02-09,Taiwan,18,1,0
 2020-02-09,Tanzania,0,0,0
 2020-02-09,Thailand,32,10,0
 2020-02-09,Timor-Leste,0,0,0
@@ -3218,7 +3218,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-09,Trinidad and Tobago,0,0,0
 2020-02-09,Tunisia,0,0,0
 2020-02-09,Turkey,0,0,0
-2020-02-09,US,11,,0
+2020-02-09,United States,11,,0
 2020-02-09,Uganda,0,0,0
 2020-02-09,Ukraine,0,0,0
 2020-02-09,United Arab Emirates,7,0,0
@@ -3380,7 +3380,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-10,Sweden,1,0,0
 2020-02-10,Switzerland,0,0,0
 2020-02-10,Syria,0,0,0
-2020-02-10,Taiwan*,18,1,0
+2020-02-10,Taiwan,18,1,0
 2020-02-10,Tanzania,0,0,0
 2020-02-10,Thailand,32,10,0
 2020-02-10,Timor-Leste,0,0,0
@@ -3388,7 +3388,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-10,Trinidad and Tobago,0,0,0
 2020-02-10,Tunisia,0,0,0
 2020-02-10,Turkey,0,0,0
-2020-02-10,US,11,,0
+2020-02-10,United States,11,,0
 2020-02-10,Uganda,0,0,0
 2020-02-10,Ukraine,0,0,0
 2020-02-10,United Arab Emirates,8,0,0
@@ -3550,7 +3550,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-11,Sweden,1,0,0
 2020-02-11,Switzerland,0,0,0
 2020-02-11,Syria,0,0,0
-2020-02-11,Taiwan*,18,1,0
+2020-02-11,Taiwan,18,1,0
 2020-02-11,Tanzania,0,0,0
 2020-02-11,Thailand,33,10,0
 2020-02-11,Timor-Leste,0,0,0
@@ -3558,7 +3558,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-11,Trinidad and Tobago,0,0,0
 2020-02-11,Tunisia,0,0,0
 2020-02-11,Turkey,0,0,0
-2020-02-11,US,12,,0
+2020-02-11,United States,12,,0
 2020-02-11,Uganda,0,0,0
 2020-02-11,Ukraine,0,0,0
 2020-02-11,United Arab Emirates,8,0,0
@@ -3720,7 +3720,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-12,Sweden,1,0,0
 2020-02-12,Switzerland,0,0,0
 2020-02-12,Syria,0,0,0
-2020-02-12,Taiwan*,18,1,0
+2020-02-12,Taiwan,18,1,0
 2020-02-12,Tanzania,0,0,0
 2020-02-12,Thailand,33,10,0
 2020-02-12,Timor-Leste,0,0,0
@@ -3728,7 +3728,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-12,Trinidad and Tobago,0,0,0
 2020-02-12,Tunisia,0,0,0
 2020-02-12,Turkey,0,0,0
-2020-02-12,US,12,,0
+2020-02-12,United States,12,,0
 2020-02-12,Uganda,0,0,0
 2020-02-12,Ukraine,0,0,0
 2020-02-12,United Arab Emirates,8,1,0
@@ -3890,7 +3890,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-13,Sweden,1,0,0
 2020-02-13,Switzerland,0,0,0
 2020-02-13,Syria,0,0,0
-2020-02-13,Taiwan*,18,1,0
+2020-02-13,Taiwan,18,1,0
 2020-02-13,Tanzania,0,0,0
 2020-02-13,Thailand,33,12,0
 2020-02-13,Timor-Leste,0,0,0
@@ -3898,7 +3898,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-13,Trinidad and Tobago,0,0,0
 2020-02-13,Tunisia,0,0,0
 2020-02-13,Turkey,0,0,0
-2020-02-13,US,13,,0
+2020-02-13,United States,13,,0
 2020-02-13,Uganda,0,0,0
 2020-02-13,Ukraine,0,0,0
 2020-02-13,United Arab Emirates,8,1,0
@@ -4060,7 +4060,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-14,Sweden,1,0,0
 2020-02-14,Switzerland,0,0,0
 2020-02-14,Syria,0,0,0
-2020-02-14,Taiwan*,18,2,0
+2020-02-14,Taiwan,18,2,0
 2020-02-14,Tanzania,0,0,0
 2020-02-14,Thailand,33,12,0
 2020-02-14,Timor-Leste,0,0,0
@@ -4068,7 +4068,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-14,Trinidad and Tobago,0,0,0
 2020-02-14,Tunisia,0,0,0
 2020-02-14,Turkey,0,0,0
-2020-02-14,US,13,,0
+2020-02-14,United States,13,,0
 2020-02-14,Uganda,0,0,0
 2020-02-14,Ukraine,0,0,0
 2020-02-14,United Arab Emirates,8,1,0
@@ -4230,7 +4230,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-15,Sweden,1,0,0
 2020-02-15,Switzerland,0,0,0
 2020-02-15,Syria,0,0,0
-2020-02-15,Taiwan*,18,2,0
+2020-02-15,Taiwan,18,2,0
 2020-02-15,Tanzania,0,0,0
 2020-02-15,Thailand,33,12,0
 2020-02-15,Timor-Leste,0,0,0
@@ -4238,7 +4238,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-15,Trinidad and Tobago,0,0,0
 2020-02-15,Tunisia,0,0,0
 2020-02-15,Turkey,0,0,0
-2020-02-15,US,13,,0
+2020-02-15,United States,13,,0
 2020-02-15,Uganda,0,0,0
 2020-02-15,Ukraine,0,0,0
 2020-02-15,United Arab Emirates,8,3,0
@@ -4400,7 +4400,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-16,Sweden,1,0,0
 2020-02-16,Switzerland,0,0,0
 2020-02-16,Syria,0,0,0
-2020-02-16,Taiwan*,20,2,1
+2020-02-16,Taiwan,20,2,1
 2020-02-16,Tanzania,0,0,0
 2020-02-16,Thailand,34,14,0
 2020-02-16,Timor-Leste,0,0,0
@@ -4408,7 +4408,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-16,Trinidad and Tobago,0,0,0
 2020-02-16,Tunisia,0,0,0
 2020-02-16,Turkey,0,0,0
-2020-02-16,US,13,,0
+2020-02-16,United States,13,,0
 2020-02-16,Uganda,0,0,0
 2020-02-16,Ukraine,0,0,0
 2020-02-16,United Arab Emirates,9,4,0
@@ -4570,7 +4570,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-17,Sweden,1,0,0
 2020-02-17,Switzerland,0,0,0
 2020-02-17,Syria,0,0,0
-2020-02-17,Taiwan*,22,2,1
+2020-02-17,Taiwan,22,2,1
 2020-02-17,Tanzania,0,0,0
 2020-02-17,Thailand,35,15,0
 2020-02-17,Timor-Leste,0,0,0
@@ -4578,7 +4578,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-17,Trinidad and Tobago,0,0,0
 2020-02-17,Tunisia,0,0,0
 2020-02-17,Turkey,0,0,0
-2020-02-17,US,13,,0
+2020-02-17,United States,13,,0
 2020-02-17,Uganda,0,0,0
 2020-02-17,Ukraine,0,0,0
 2020-02-17,United Arab Emirates,9,4,0
@@ -4740,7 +4740,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-18,Sweden,1,0,0
 2020-02-18,Switzerland,0,0,0
 2020-02-18,Syria,0,0,0
-2020-02-18,Taiwan*,22,2,1
+2020-02-18,Taiwan,22,2,1
 2020-02-18,Tanzania,0,0,0
 2020-02-18,Thailand,35,15,0
 2020-02-18,Timor-Leste,0,0,0
@@ -4748,7 +4748,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-18,Trinidad and Tobago,0,0,0
 2020-02-18,Tunisia,0,0,0
 2020-02-18,Turkey,0,0,0
-2020-02-18,US,13,,0
+2020-02-18,United States,13,,0
 2020-02-18,Uganda,0,0,0
 2020-02-18,Ukraine,0,0,0
 2020-02-18,United Arab Emirates,9,4,0
@@ -4910,7 +4910,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-19,Sweden,1,0,0
 2020-02-19,Switzerland,0,0,0
 2020-02-19,Syria,0,0,0
-2020-02-19,Taiwan*,23,2,1
+2020-02-19,Taiwan,23,2,1
 2020-02-19,Tanzania,0,0,0
 2020-02-19,Thailand,35,15,0
 2020-02-19,Timor-Leste,0,0,0
@@ -4918,7 +4918,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-19,Trinidad and Tobago,0,0,0
 2020-02-19,Tunisia,0,0,0
 2020-02-19,Turkey,0,0,0
-2020-02-19,US,13,,0
+2020-02-19,United States,13,,0
 2020-02-19,Uganda,0,0,0
 2020-02-19,Ukraine,0,0,0
 2020-02-19,United Arab Emirates,9,4,0
@@ -5080,7 +5080,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-20,Sweden,1,0,0
 2020-02-20,Switzerland,0,0,0
 2020-02-20,Syria,0,0,0
-2020-02-20,Taiwan*,24,2,1
+2020-02-20,Taiwan,24,2,1
 2020-02-20,Tanzania,0,0,0
 2020-02-20,Thailand,35,15,0
 2020-02-20,Timor-Leste,0,0,0
@@ -5088,7 +5088,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-20,Trinidad and Tobago,0,0,0
 2020-02-20,Tunisia,0,0,0
 2020-02-20,Turkey,0,0,0
-2020-02-20,US,13,,0
+2020-02-20,United States,13,,0
 2020-02-20,Uganda,0,0,0
 2020-02-20,Ukraine,0,0,0
 2020-02-20,United Arab Emirates,9,4,0
@@ -5250,7 +5250,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-21,Sweden,1,0,0
 2020-02-21,Switzerland,0,0,0
 2020-02-21,Syria,0,0,0
-2020-02-21,Taiwan*,26,2,1
+2020-02-21,Taiwan,26,2,1
 2020-02-21,Tanzania,0,0,0
 2020-02-21,Thailand,35,17,0
 2020-02-21,Timor-Leste,0,0,0
@@ -5258,7 +5258,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-21,Trinidad and Tobago,0,0,0
 2020-02-21,Tunisia,0,0,0
 2020-02-21,Turkey,0,0,0
-2020-02-21,US,15,,0
+2020-02-21,United States,15,,0
 2020-02-21,Uganda,0,0,0
 2020-02-21,Ukraine,0,0,0
 2020-02-21,United Arab Emirates,9,4,0
@@ -5420,7 +5420,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-22,Sweden,1,0,0
 2020-02-22,Switzerland,0,0,0
 2020-02-22,Syria,0,0,0
-2020-02-22,Taiwan*,26,2,1
+2020-02-22,Taiwan,26,2,1
 2020-02-22,Tanzania,0,0,0
 2020-02-22,Thailand,35,17,0
 2020-02-22,Timor-Leste,0,0,0
@@ -5428,7 +5428,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-22,Trinidad and Tobago,0,0,0
 2020-02-22,Tunisia,0,0,0
 2020-02-22,Turkey,0,0,0
-2020-02-22,US,15,,0
+2020-02-22,United States,15,,0
 2020-02-22,Uganda,0,0,0
 2020-02-22,Ukraine,0,0,0
 2020-02-22,United Arab Emirates,13,4,0
@@ -5590,7 +5590,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-23,Sweden,1,0,0
 2020-02-23,Switzerland,0,0,0
 2020-02-23,Syria,0,0,0
-2020-02-23,Taiwan*,28,2,1
+2020-02-23,Taiwan,28,2,1
 2020-02-23,Tanzania,0,0,0
 2020-02-23,Thailand,35,21,0
 2020-02-23,Timor-Leste,0,0,0
@@ -5598,7 +5598,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-23,Trinidad and Tobago,0,0,0
 2020-02-23,Tunisia,0,0,0
 2020-02-23,Turkey,0,0,0
-2020-02-23,US,15,,0
+2020-02-23,United States,15,,0
 2020-02-23,Uganda,0,0,0
 2020-02-23,Ukraine,0,0,0
 2020-02-23,United Arab Emirates,13,4,0
@@ -5760,7 +5760,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-24,Sweden,1,0,0
 2020-02-24,Switzerland,0,0,0
 2020-02-24,Syria,0,0,0
-2020-02-24,Taiwan*,30,5,1
+2020-02-24,Taiwan,30,5,1
 2020-02-24,Tanzania,0,0,0
 2020-02-24,Thailand,35,21,0
 2020-02-24,Timor-Leste,0,0,0
@@ -5768,7 +5768,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-24,Trinidad and Tobago,0,0,0
 2020-02-24,Tunisia,0,0,0
 2020-02-24,Turkey,0,0,0
-2020-02-24,US,51,,0
+2020-02-24,United States,51,,0
 2020-02-24,Uganda,0,0,0
 2020-02-24,Ukraine,0,0,0
 2020-02-24,United Arab Emirates,13,4,0
@@ -5930,7 +5930,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-25,Sweden,1,0,0
 2020-02-25,Switzerland,1,0,0
 2020-02-25,Syria,0,0,0
-2020-02-25,Taiwan*,31,5,1
+2020-02-25,Taiwan,31,5,1
 2020-02-25,Tanzania,0,0,0
 2020-02-25,Thailand,37,22,0
 2020-02-25,Timor-Leste,0,0,0
@@ -5938,7 +5938,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-25,Trinidad and Tobago,0,0,0
 2020-02-25,Tunisia,0,0,0
 2020-02-25,Turkey,0,0,0
-2020-02-25,US,51,,0
+2020-02-25,United States,51,,0
 2020-02-25,Uganda,0,0,0
 2020-02-25,Ukraine,0,0,0
 2020-02-25,United Arab Emirates,13,4,0
@@ -6100,7 +6100,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-26,Sweden,2,0,0
 2020-02-26,Switzerland,1,0,0
 2020-02-26,Syria,0,0,0
-2020-02-26,Taiwan*,32,5,1
+2020-02-26,Taiwan,32,5,1
 2020-02-26,Tanzania,0,0,0
 2020-02-26,Thailand,40,22,0
 2020-02-26,Timor-Leste,0,0,0
@@ -6108,7 +6108,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-26,Trinidad and Tobago,0,0,0
 2020-02-26,Tunisia,0,0,0
 2020-02-26,Turkey,0,0,0
-2020-02-26,US,57,,0
+2020-02-26,United States,57,,0
 2020-02-26,Uganda,0,0,0
 2020-02-26,Ukraine,0,0,0
 2020-02-26,United Arab Emirates,13,4,0
@@ -6270,7 +6270,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-27,Sweden,7,0,0
 2020-02-27,Switzerland,8,0,0
 2020-02-27,Syria,0,0,0
-2020-02-27,Taiwan*,32,5,1
+2020-02-27,Taiwan,32,5,1
 2020-02-27,Tanzania,0,0,0
 2020-02-27,Thailand,40,22,0
 2020-02-27,Timor-Leste,0,0,0
@@ -6278,7 +6278,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-27,Trinidad and Tobago,0,0,0
 2020-02-27,Tunisia,0,0,0
 2020-02-27,Turkey,0,0,0
-2020-02-27,US,58,,0
+2020-02-27,United States,58,,0
 2020-02-27,Uganda,0,0,0
 2020-02-27,Ukraine,0,0,0
 2020-02-27,United Arab Emirates,13,4,0
@@ -6440,7 +6440,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,Sweden,7,0,0
 2020-02-28,Switzerland,8,0,0
 2020-02-28,Syria,0,0,0
-2020-02-28,Taiwan*,34,6,1
+2020-02-28,Taiwan,34,6,1
 2020-02-28,Tanzania,0,0,0
 2020-02-28,Thailand,41,28,0
 2020-02-28,Timor-Leste,0,0,0
@@ -6448,7 +6448,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,Trinidad and Tobago,0,0,0
 2020-02-28,Tunisia,0,0,0
 2020-02-28,Turkey,0,0,0
-2020-02-28,US,60,,0
+2020-02-28,United States,60,,0
 2020-02-28,Uganda,0,0,0
 2020-02-28,Ukraine,0,0,0
 2020-02-28,United Arab Emirates,19,5,0
@@ -6610,7 +6610,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-29,Sweden,12,0,0
 2020-02-29,Switzerland,18,0,0
 2020-02-29,Syria,0,0,0
-2020-02-29,Taiwan*,39,9,1
+2020-02-29,Taiwan,39,9,1
 2020-02-29,Tanzania,0,0,0
 2020-02-29,Thailand,42,28,0
 2020-02-29,Timor-Leste,0,0,0
@@ -6618,7 +6618,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-29,Trinidad and Tobago,0,0,0
 2020-02-29,Tunisia,0,0,0
 2020-02-29,Turkey,0,0,0
-2020-02-29,US,68,,1
+2020-02-29,United States,68,,1
 2020-02-29,Uganda,0,0,0
 2020-02-29,Ukraine,0,0,0
 2020-02-29,United Arab Emirates,21,5,0
@@ -6780,7 +6780,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-01,Sweden,14,0,0
 2020-03-01,Switzerland,27,0,0
 2020-03-01,Syria,0,0,0
-2020-03-01,Taiwan*,40,9,1
+2020-03-01,Taiwan,40,9,1
 2020-03-01,Tanzania,0,0,0
 2020-03-01,Thailand,42,28,1
 2020-03-01,Timor-Leste,0,0,0
@@ -6788,7 +6788,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-01,Trinidad and Tobago,0,0,0
 2020-03-01,Tunisia,0,0,0
 2020-03-01,Turkey,0,0,0
-2020-03-01,US,74,,1
+2020-03-01,United States,74,,1
 2020-03-01,Uganda,0,0,0
 2020-03-01,Ukraine,0,0,0
 2020-03-01,United Arab Emirates,21,5,0
@@ -6950,7 +6950,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,Sweden,15,0,0
 2020-03-02,Switzerland,42,0,0
 2020-03-02,Syria,0,0,0
-2020-03-02,Taiwan*,41,12,1
+2020-03-02,Taiwan,41,12,1
 2020-03-02,Tanzania,0,0,0
 2020-03-02,Thailand,43,31,1
 2020-03-02,Timor-Leste,0,0,0
@@ -6958,7 +6958,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,Trinidad and Tobago,0,0,0
 2020-03-02,Tunisia,0,0,0
 2020-03-02,Turkey,0,0,0
-2020-03-02,US,98,,6
+2020-03-02,United States,98,,6
 2020-03-02,Uganda,0,0,0
 2020-03-02,Ukraine,0,0,0
 2020-03-02,United Arab Emirates,21,5,0
@@ -7120,7 +7120,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-03,Sweden,21,0,0
 2020-03-03,Switzerland,56,2,0
 2020-03-03,Syria,0,0,0
-2020-03-03,Taiwan*,42,12,1
+2020-03-03,Taiwan,42,12,1
 2020-03-03,Tanzania,0,0,0
 2020-03-03,Thailand,43,31,1
 2020-03-03,Timor-Leste,0,0,0
@@ -7128,7 +7128,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-03,Trinidad and Tobago,0,0,0
 2020-03-03,Tunisia,0,0,0
 2020-03-03,Turkey,0,0,0
-2020-03-03,US,118,,7
+2020-03-03,United States,118,,7
 2020-03-03,Uganda,0,0,0
 2020-03-03,Ukraine,1,0,0
 2020-03-03,United Arab Emirates,27,5,0
@@ -7290,7 +7290,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-04,Sweden,35,0,0
 2020-03-04,Switzerland,90,3,0
 2020-03-04,Syria,0,0,0
-2020-03-04,Taiwan*,42,12,1
+2020-03-04,Taiwan,42,12,1
 2020-03-04,Tanzania,0,0,0
 2020-03-04,Thailand,43,31,1
 2020-03-04,Timor-Leste,0,0,0
@@ -7298,7 +7298,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-04,Trinidad and Tobago,0,0,0
 2020-03-04,Tunisia,1,0,0
 2020-03-04,Turkey,0,0,0
-2020-03-04,US,149,,11
+2020-03-04,United States,149,,11
 2020-03-04,Uganda,0,0,0
 2020-03-04,Ukraine,1,0,0
 2020-03-04,United Arab Emirates,27,5,0
@@ -7460,7 +7460,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,Sweden,94,0,0
 2020-03-05,Switzerland,114,3,1
 2020-03-05,Syria,0,0,0
-2020-03-05,Taiwan*,44,12,1
+2020-03-05,Taiwan,44,12,1
 2020-03-05,Tanzania,0,0,0
 2020-03-05,Thailand,47,31,1
 2020-03-05,Timor-Leste,0,0,0
@@ -7468,7 +7468,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,Trinidad and Tobago,0,0,0
 2020-03-05,Tunisia,1,0,0
 2020-03-05,Turkey,0,0,0
-2020-03-05,US,217,,12
+2020-03-05,United States,217,,12
 2020-03-05,Uganda,0,0,0
 2020-03-05,Ukraine,1,0,0
 2020-03-05,United Arab Emirates,29,5,0
@@ -7630,7 +7630,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-06,Sweden,101,0,0
 2020-03-06,Switzerland,214,3,1
 2020-03-06,Syria,0,0,0
-2020-03-06,Taiwan*,45,12,1
+2020-03-06,Taiwan,45,12,1
 2020-03-06,Tanzania,0,0,0
 2020-03-06,Thailand,48,31,1
 2020-03-06,Timor-Leste,0,0,0
@@ -7638,7 +7638,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-06,Trinidad and Tobago,0,0,0
 2020-03-06,Tunisia,1,0,0
 2020-03-06,Turkey,0,0,0
-2020-03-06,US,262,,14
+2020-03-06,United States,262,,14
 2020-03-06,Uganda,0,0,0
 2020-03-06,Ukraine,1,0,0
 2020-03-06,United Arab Emirates,29,5,0
@@ -7800,7 +7800,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,Sweden,161,0,0
 2020-03-07,Switzerland,268,3,1
 2020-03-07,Syria,0,0,0
-2020-03-07,Taiwan*,45,12,1
+2020-03-07,Taiwan,45,12,1
 2020-03-07,Tanzania,0,0,0
 2020-03-07,Thailand,50,31,1
 2020-03-07,Timor-Leste,0,0,0
@@ -7808,7 +7808,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,Trinidad and Tobago,0,0,0
 2020-03-07,Tunisia,1,0,0
 2020-03-07,Turkey,0,0,0
-2020-03-07,US,402,,17
+2020-03-07,United States,402,,17
 2020-03-07,Uganda,0,0,0
 2020-03-07,Ukraine,1,0,0
 2020-03-07,United Arab Emirates,45,7,0
@@ -7970,7 +7970,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-08,Sweden,203,0,0
 2020-03-08,Switzerland,337,3,2
 2020-03-08,Syria,0,0,0
-2020-03-08,Taiwan*,45,13,1
+2020-03-08,Taiwan,45,13,1
 2020-03-08,Tanzania,0,0,0
 2020-03-08,Thailand,50,31,1
 2020-03-08,Timor-Leste,0,0,0
@@ -7978,7 +7978,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-08,Trinidad and Tobago,0,0,0
 2020-03-08,Tunisia,2,0,0
 2020-03-08,Turkey,0,0,0
-2020-03-08,US,518,,21
+2020-03-08,United States,518,,21
 2020-03-08,Uganda,0,0,0
 2020-03-08,Ukraine,1,0,0
 2020-03-08,United Arab Emirates,45,7,0
@@ -8140,7 +8140,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,Sweden,248,1,0
 2020-03-09,Switzerland,374,3,2
 2020-03-09,Syria,0,0,0
-2020-03-09,Taiwan*,45,15,1
+2020-03-09,Taiwan,45,15,1
 2020-03-09,Tanzania,0,0,0
 2020-03-09,Thailand,50,31,1
 2020-03-09,Timor-Leste,0,0,0
@@ -8148,7 +8148,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,Trinidad and Tobago,0,0,0
 2020-03-09,Tunisia,2,0,0
 2020-03-09,Turkey,0,0,0
-2020-03-09,US,583,,22
+2020-03-09,United States,583,,22
 2020-03-09,Uganda,0,0,0
 2020-03-09,Ukraine,1,0,0
 2020-03-09,United Arab Emirates,45,7,0
@@ -8310,7 +8310,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,Sweden,355,1,0
 2020-03-10,Switzerland,491,3,3
 2020-03-10,Syria,0,0,0
-2020-03-10,Taiwan*,47,17,1
+2020-03-10,Taiwan,47,17,1
 2020-03-10,Tanzania,0,0,0
 2020-03-10,Thailand,53,33,1
 2020-03-10,Timor-Leste,0,0,0
@@ -8318,7 +8318,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,Trinidad and Tobago,0,0,0
 2020-03-10,Tunisia,5,0,0
 2020-03-10,Turkey,0,0,0
-2020-03-10,US,959,,28
+2020-03-10,United States,959,,28
 2020-03-10,Uganda,0,0,0
 2020-03-10,Ukraine,1,0,0
 2020-03-10,United Arab Emirates,74,12,0
@@ -8480,7 +8480,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,Sweden,500,1,1
 2020-03-11,Switzerland,652,4,4
 2020-03-11,Syria,0,0,0
-2020-03-11,Taiwan*,48,17,1
+2020-03-11,Taiwan,48,17,1
 2020-03-11,Tanzania,0,0,0
 2020-03-11,Thailand,59,34,1
 2020-03-11,Timor-Leste,0,0,0
@@ -8488,7 +8488,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,Trinidad and Tobago,0,0,0
 2020-03-11,Tunisia,7,0,0
 2020-03-11,Turkey,1,0,0
-2020-03-11,US,1281,,36
+2020-03-11,United States,1281,,36
 2020-03-11,Uganda,0,0,0
 2020-03-11,Ukraine,1,0,0
 2020-03-11,United Arab Emirates,74,17,0
@@ -8650,7 +8650,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,Sweden,599,1,1
 2020-03-12,Switzerland,652,4,4
 2020-03-12,Syria,0,0,0
-2020-03-12,Taiwan*,49,20,1
+2020-03-12,Taiwan,49,20,1
 2020-03-12,Tanzania,0,0,0
 2020-03-12,Thailand,70,34,1
 2020-03-12,Timor-Leste,0,0,0
@@ -8658,7 +8658,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,Trinidad and Tobago,0,0,0
 2020-03-12,Tunisia,7,0,0
 2020-03-12,Turkey,1,0,0
-2020-03-12,US,1663,,40
+2020-03-12,United States,1663,,40
 2020-03-12,Uganda,0,0,0
 2020-03-12,Ukraine,1,0,0
 2020-03-12,United Arab Emirates,85,17,0
@@ -8820,7 +8820,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Sweden,814,1,1
 2020-03-13,Switzerland,1139,4,11
 2020-03-13,Syria,0,0,0
-2020-03-13,Taiwan*,50,20,1
+2020-03-13,Taiwan,50,20,1
 2020-03-13,Tanzania,0,0,0
 2020-03-13,Thailand,75,35,1
 2020-03-13,Timor-Leste,0,0,0
@@ -8828,7 +8828,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Trinidad and Tobago,0,0,0
 2020-03-13,Tunisia,16,0,0
 2020-03-13,Turkey,5,0,0
-2020-03-13,US,2179,,47
+2020-03-13,United States,2179,,47
 2020-03-13,Uganda,0,0,0
 2020-03-13,Ukraine,3,0,1
 2020-03-13,United Arab Emirates,85,17,0
@@ -8990,7 +8990,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Sweden,961,1,2
 2020-03-14,Switzerland,1359,4,13
 2020-03-14,Syria,0,0,0
-2020-03-14,Taiwan*,53,20,1
+2020-03-14,Taiwan,53,20,1
 2020-03-14,Tanzania,0,0,0
 2020-03-14,Thailand,82,35,1
 2020-03-14,Timor-Leste,0,0,0
@@ -8998,7 +8998,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Trinidad and Tobago,2,0,0
 2020-03-14,Tunisia,18,0,0
 2020-03-14,Turkey,5,0,0
-2020-03-14,US,2727,,54
+2020-03-14,United States,2727,,54
 2020-03-14,Uganda,0,0,0
 2020-03-14,Ukraine,3,0,1
 2020-03-14,United Arab Emirates,85,17,0
@@ -9160,7 +9160,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Sweden,1022,1,3
 2020-03-15,Switzerland,2200,4,14
 2020-03-15,Syria,0,0,0
-2020-03-15,Taiwan*,59,20,1
+2020-03-15,Taiwan,59,20,1
 2020-03-15,Tanzania,0,0,0
 2020-03-15,Thailand,114,35,1
 2020-03-15,Timor-Leste,0,0,0
@@ -9168,7 +9168,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Trinidad and Tobago,2,0,0
 2020-03-15,Tunisia,18,0,0
 2020-03-15,Turkey,6,0,0
-2020-03-15,US,3499,,63
+2020-03-15,United States,3499,,63
 2020-03-15,Uganda,0,0,0
 2020-03-15,Ukraine,3,0,1
 2020-03-15,United Arab Emirates,98,23,0
@@ -9330,7 +9330,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Sweden,1103,1,6
 2020-03-16,Switzerland,2200,4,14
 2020-03-16,Syria,0,0,0
-2020-03-16,Taiwan*,67,20,1
+2020-03-16,Taiwan,67,20,1
 2020-03-16,Tanzania,1,0,0
 2020-03-16,Thailand,147,35,1
 2020-03-16,Timor-Leste,0,0,0
@@ -9338,7 +9338,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Trinidad and Tobago,4,0,0
 2020-03-16,Tunisia,20,0,0
 2020-03-16,Turkey,18,0,0
-2020-03-16,US,4632,,85
+2020-03-16,United States,4632,,85
 2020-03-16,Uganda,0,0,0
 2020-03-16,Ukraine,7,0,1
 2020-03-16,United Arab Emirates,98,23,0
@@ -9500,7 +9500,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Sweden,1190,1,7
 2020-03-17,Switzerland,2700,4,27
 2020-03-17,Syria,0,0,0
-2020-03-17,Taiwan*,77,22,1
+2020-03-17,Taiwan,77,22,1
 2020-03-17,Tanzania,1,0,0
 2020-03-17,Thailand,177,41,1
 2020-03-17,Timor-Leste,0,0,0
@@ -9508,7 +9508,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Trinidad and Tobago,5,0,0
 2020-03-17,Tunisia,24,0,0
 2020-03-17,Turkey,47,0,1
-2020-03-17,US,6421,,108
+2020-03-17,United States,6421,,108
 2020-03-17,Uganda,0,0,0
 2020-03-17,Ukraine,14,0,2
 2020-03-17,United Arab Emirates,98,23,0
@@ -9670,7 +9670,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Sweden,1279,1,10
 2020-03-18,Switzerland,3028,15,28
 2020-03-18,Syria,0,0,0
-2020-03-18,Taiwan*,100,22,1
+2020-03-18,Taiwan,100,22,1
 2020-03-18,Tanzania,3,0,0
 2020-03-18,Thailand,212,42,1
 2020-03-18,Timor-Leste,0,0,0
@@ -9678,7 +9678,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Trinidad and Tobago,7,0,0
 2020-03-18,Tunisia,29,0,0
 2020-03-18,Turkey,98,0,1
-2020-03-18,US,7783,,118
+2020-03-18,United States,7783,,118
 2020-03-18,Uganda,0,0,0
 2020-03-18,Ukraine,14,0,2
 2020-03-18,United Arab Emirates,113,26,0
@@ -9840,7 +9840,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Sweden,1439,16,11
 2020-03-19,Switzerland,4075,15,41
 2020-03-19,Syria,0,0,0
-2020-03-19,Taiwan*,108,26,1
+2020-03-19,Taiwan,108,26,1
 2020-03-19,Tanzania,6,0,0
 2020-03-19,Thailand,272,42,1
 2020-03-19,Timor-Leste,0,0,0
@@ -9848,7 +9848,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Trinidad and Tobago,9,0,0
 2020-03-19,Tunisia,39,0,1
 2020-03-19,Turkey,192,0,3
-2020-03-19,US,13677,,200
+2020-03-19,United States,13677,,200
 2020-03-19,Uganda,0,0,0
 2020-03-19,Ukraine,16,0,2
 2020-03-19,United Arab Emirates,140,31,0
@@ -10010,7 +10010,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Sweden,1639,16,16
 2020-03-20,Switzerland,5294,15,54
 2020-03-20,Syria,0,0,0
-2020-03-20,Taiwan*,135,26,2
+2020-03-20,Taiwan,135,26,2
 2020-03-20,Tanzania,6,0,0
 2020-03-20,Thailand,322,42,1
 2020-03-20,Timor-Leste,0,0,0
@@ -10018,7 +10018,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Trinidad and Tobago,9,0,0
 2020-03-20,Tunisia,54,0,1
 2020-03-20,Turkey,359,0,4
-2020-03-20,US,19100,,244
+2020-03-20,United States,19100,,244
 2020-03-20,Uganda,0,0,0
 2020-03-20,Ukraine,29,0,3
 2020-03-20,United Arab Emirates,140,31,2
@@ -10180,7 +10180,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Sweden,1763,16,20
 2020-03-21,Switzerland,6575,15,75
 2020-03-21,Syria,0,0,0
-2020-03-21,Taiwan*,153,28,2
+2020-03-21,Taiwan,153,28,2
 2020-03-21,Tanzania,6,0,0
 2020-03-21,Thailand,411,42,1
 2020-03-21,Timor-Leste,0,0,0
@@ -10188,7 +10188,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Trinidad and Tobago,49,1,0
 2020-03-21,Tunisia,60,0,1
 2020-03-21,Turkey,670,0,9
-2020-03-21,US,25489,,307
+2020-03-21,United States,25489,,307
 2020-03-21,Uganda,1,0,0
 2020-03-21,Ukraine,47,1,3
 2020-03-21,United Arab Emirates,153,38,2
@@ -10350,7 +10350,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Sweden,1934,16,21
 2020-03-22,Switzerland,7474,131,98
 2020-03-22,Syria,1,0,0
-2020-03-22,Taiwan*,169,28,2
+2020-03-22,Taiwan,169,28,2
 2020-03-22,Tanzania,12,0,0
 2020-03-22,Thailand,599,44,1
 2020-03-22,Timor-Leste,1,0,0
@@ -10358,7 +10358,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Trinidad and Tobago,50,1,0
 2020-03-22,Tunisia,75,1,3
 2020-03-22,Turkey,1236,0,30
-2020-03-22,US,33276,,417
+2020-03-22,United States,33276,,417
 2020-03-22,Uganda,1,0,0
 2020-03-22,Ukraine,73,1,3
 2020-03-22,United Arab Emirates,153,38,2
@@ -10520,7 +10520,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Sweden,2046,16,25
 2020-03-23,Switzerland,8795,131,120
 2020-03-23,Syria,1,0,0
-2020-03-23,Taiwan*,195,28,2
+2020-03-23,Taiwan,195,28,2
 2020-03-23,Tanzania,12,0,0
 2020-03-23,Thailand,721,44,1
 2020-03-23,Timor-Leste,1,0,0
@@ -10528,7 +10528,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Trinidad and Tobago,51,1,0
 2020-03-23,Tunisia,89,1,3
 2020-03-23,Turkey,1529,0,37
-2020-03-23,US,43847,,557
+2020-03-23,United States,43847,,557
 2020-03-23,Uganda,9,0,0
 2020-03-23,Ukraine,73,1,3
 2020-03-23,United Arab Emirates,198,38,2
@@ -10690,7 +10690,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Sweden,2286,,36
 2020-03-24,Switzerland,9877,,122
 2020-03-24,Syria,1,,0
-2020-03-24,Taiwan*,215,,2
+2020-03-24,Taiwan,215,,2
 2020-03-24,Tanzania,12,,0
 2020-03-24,Thailand,827,,4
 2020-03-24,Timor-Leste,1,,0
@@ -10698,7 +10698,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Trinidad and Tobago,57,,0
 2020-03-24,Tunisia,114,,4
 2020-03-24,Turkey,1872,,44
-2020-03-24,US,53740,,706
+2020-03-24,United States,53740,,706
 2020-03-24,Uganda,9,,0
 2020-03-24,Ukraine,97,,3
 2020-03-24,United Arab Emirates,248,,2

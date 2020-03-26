@@ -11,13 +11,8 @@ from dash.dependencies import Input, Output
 
 MIN_DEATHS = 10
 
-TEXT = '''
+TOP_TEXT = """
 ### COVID-19 Growth Curves
-
-Links:
-- [Source code](https://github.com/pdqnguyen/covid-19)
-- [COVID-19 data](https://github.com/datasets/covid-19)
-- [Population data]
 
 These growth curves are lined up by date of first death
 (or 2020-01-22 if deaths began before then) for a better
@@ -26,7 +21,31 @@ Countries may vary in their patient testing policies and
 procedures, but deaths offer a more policy-independent,
 albeit low-sample-size, [proxy for the true number of cases]
 (https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca).
-'''
+See below for a description of user options.
+"""
+
+BOTTOM_TEXT1 = """
+Usage:
+- Choose a metric and normalization.
+- Click on a curve to highlight it. Shift click to highlight multiple curves.
+- Click on a country name in the legend to remove it.
+- Double click legend to add countries to a blank plot.
+"""
+
+BOTTOM_TEXT2 = """
+Normalize by:
+- **population** to show the proportion of each country's population affected;
+- **population density** to show the effective geographical area impacted by the spread;
+- **hospital beds** to show the load of the infection on each country's healthcare capacity.
+"""
+
+BOTTOM_TEXT3 = """
+Links:
+- [Source code](https://github.com/pdqnguyen/covid-19)
+- [COVID-19 data](https://github.com/datasets/covid-19)
+- [Population data](https://worldpopulationreview.com/countries/countries-by-density/)
+- [Hospital data](https://data.worldbank.org/indicator/sh.med.beds.zs)
+"""
 
 
 covid19 = pd.read_csv('countries-aggregated.csv')
@@ -73,6 +92,7 @@ for c in countries:
         ts_crop[['cases_dens', 'recovered_dens', 'deaths_dens']] = by_dens
         ts_crop[['cases_beds', 'recovered_beds', 'deaths_beds']] = by_beds
         processed[c] = ts_crop
+countries = list(processed.keys())
 columns = [
     'cases', 'recovered', 'deaths',
     'cases_pop', 'recovered_pop', 'deaths_pop',
@@ -119,7 +139,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 app.layout = html.Div([
-    dcc.Markdown(children=TEXT, style={'width': '1200px'}),
+
+    dcc.Markdown(children=TOP_TEXT, style={'width': '1200px'}),
 
     # Menu for choosing numberator
     html.Div([
@@ -134,7 +155,7 @@ app.layout = html.Div([
                'marginRight': '2em',
                'display': 'inline-block'}
     ),
-    
+
     # Menu for choosing denominator
     html.Div([
             html.Label("Normalize by:"),
@@ -167,6 +188,20 @@ app.layout = html.Div([
 
     # Main figure
     dcc.Graph(id='plot', figure=fig),
+
+    html.Div([
+            html.Div(
+                [dcc.Markdown(children=BOTTOM_TEXT1, style={'width': '500px'})],
+                className="six columns"),
+            html.Div(
+                [dcc.Markdown(children=BOTTOM_TEXT2, style={'width': '500px'})],
+                className="six columns"),
+        ],
+        className="row",
+        style={'width': '1200px'}
+    ),
+
+    dcc.Markdown(children=BOTTOM_TEXT3, style={'width': '1200px'})
 ])
 
 
@@ -176,7 +211,7 @@ app.layout = html.Div([
         Input('opt-metric', 'value'),
         Input('opt-normalize', 'value'),
         Input('opt-scale', 'value'),
-        Input('plot', 'clickData'),
+        Input('plot', 'selectedData'),
     ]
 )
 def update_figure(input1, input2, input3, input4):
@@ -195,13 +230,13 @@ def update_figure(input1, input2, input3, input4):
     else:
         yfmt = "%{y:,.0f}"
     if input4:
-        name = input4['points'][0]['text']
+        names = [point['text'] for point in input4['points']]
         traces = [
             go.Scatter(x=x, y=y, mode='lines+markers', name=c, text=[c] * len(x),
                        hovertemplate="<b>%{text}</b><br><br>" +
                        "day: %{x:.0f}<br>" +
                        "value: " + yfmt + "<br><extra></extra>",
-                       opacity=(1.0 if c == name else 0.2))
+                       opacity=(1.0 if c in names else 0.1))
             for i, (column, c, x, y) in enumerate(data) if column == selection
         ]
     else:
@@ -241,7 +276,7 @@ def update_figure(input1, input2, input3, input4):
     return fig
 
 
-@app.callback(Output('plot', 'clickData'), [Input('reset-button', 'n_clicks')])
+@app.callback(Output('plot', 'selectedData'), [Input('reset-button', 'n_clicks')])
 def reset_figure(n_clicks):
     return None
 

@@ -141,8 +141,17 @@ server = app.server
 markdown_text = '''
 ### COVID-19 Growth Curves
 
-Data drawn from [https://github.com/datasets/covid-19]
-(https://github.com/datasets/covid-19). These growth curves are lined up by date of first death (or 2020-01-22 if deaths began before then) for a better comparison between countries.
+Links:
+[[Source code](https://github.com/pdqnguyen/covid-19)]
+[[Full Data](https://github.com/datasets/covid-19)]
+
+These growth curves are lined up by date of first death
+(or 2020-01-22 if deaths began before then) for a better
+comparison between the growth rate in different countries.
+Countries may vary in their patient testing policies and
+procedures, but deaths offer a more policy-independent,
+albeit low-sample-size, [proxy for the true number of cases]
+(https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca).
 '''
 app.layout = html.Div([
     dcc.Markdown(children=markdown_text),
